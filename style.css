@@ -14,9 +14,11 @@ h1{
     font-size: 5em;
     }
 h2{
+    color: lightblue;
     font-family: "Arial Black", Gadget, sans-serif;
     font-size: 30px;}  
-h3{font-family: "Monospaced" }      
+h3{font-family: "Arial Black", sans-serif;
+}      
 p{font-family: "Arial Black";
 }  
 q{font-style:italic;
